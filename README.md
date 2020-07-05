@@ -1,4 +1,4 @@
-<img src="https://api.harmonograph.art/3DFCB3/1C65F8/1.5" alt="Randomised lissajous curves" width="220" align="left">
+<img src="https://api.harmonograph.art/3DFCB3/1C65F8/1.5" alt="Randomised lissajous curves" width="220" align="right">
 
 ### Hey i'm [Alex](http://alexpage.com.au) 👋
 
