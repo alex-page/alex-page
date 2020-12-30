@@ -1,7 +1,7 @@
 <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right">
 
-### Hey i'm [Alex](http://alexpage.com.au) 👋
+### Hey i'm [Alex](http://alexpage.com.au)
 
-> I specialise in design systems, JavaScript, open-source and accessibility. I love solving problems at scale with systemisation, automation, modern technology and thoughtful design.
+> I lead multidisciplinary teams, build communities and create systems with modern technology and thoughtful design. I am obsessed with the user experience and write code that connects people to pixels.
 
-I am a User Experience Development Manager at [Shopify](https://www.shopify.com) working on the [Polaris Design System](https://polaris.shopify.com), helping solve common problems at scale. I was the Lead User Experience Engineer on the [Australian Government Design System](https://designsystem.gov.au). I worked in a team to align 1000+ websites over 200+ organisations.
+I am a front-end development manager at @Shopify leading the [Polaris Design System](https://polaris.shopify.com), building a foundation and community for our merchants experiences. I was the Lead User Experience Engineer on the [Australian Government Design System](https://designsystem.gov.au). I worked in a team to align 1000+ websites over 200+ organisations.
