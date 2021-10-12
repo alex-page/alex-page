@@ -1,6 +1,6 @@
 <img src="https://api.harmonograph.art/3DFCB3/1C65F8FF/1.5" alt="Randomised lissajous curves" width="220" align="right">
 
-### Hey i'm [Alex](http://alexpage.com.au)
+### Hey i'm [Alex](http://alexpage.dev)
 
 > I lead multidisciplinary teams, build communities and create systems with modern technology and thoughtful design. I am obsessed with user experience and write code that connects people to pixels.
 
