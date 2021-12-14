@@ -2,8 +2,8 @@ Hey, I'm Alex.
 
 I write code that connects people to pixels. I build communities and create systems with modern technology and thoughtful design.
 
-| Alex Page, Developer | Vancouver, BC | harmonograph.art |
-|---|---|---|
+| Vancouver, BC | harmonograph.art |
+|---|---|
 |<img src="https://alexpage.dev/images/me.jpg" alt="Picture of Alex Page" width="200">|<img src="https://alexpage.dev/images/van.jpg" alt="Randomised lissajous curves" width="200">|<img src="https://api.harmonograph.art/93C5FD/2563eb/1.5" alt="Randomised lissajous curves" width="200">|
 
 
